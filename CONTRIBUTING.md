@@ -85,3 +85,17 @@ src/
     utils/                  # hashing, system, time utilities
 tests/                      # pytest test suite
 ```
+## Design Principles
+
+SystemDNA follows a few core principles:
+
+- Linux-first
+- Distribution-agnostic
+- Init-system agnostic
+- Offline by default
+- No telemetry
+- No background daemons
+- Graceful degradation when subsystems are unavailable
+- Read standard Linux interfaces whenever possible (/proc, /sys, /etc, /run)
+
+Contributors should preserve these principles when proposing new features.
