@@ -1,4 +1,5 @@
 # SystemDNA
+<img width="1983" height="793" alt="SystemDNA" src="https://github.com/user-attachments/assets/cf191277-32ea-46ba-bab2-c9d064c33896" />
 
 **Capture your system's DNA. Understand every change.**
 
