@@ -7,7 +7,7 @@ name = "systemdna"
 version = "0.1.0"
 description = "Capture your system's DNA. Understand every change."
 readme = "README.md"
-license = {text = "MIT"}
+license = { text = "GPL-3.0-only" }
 requires-python = ">=3.13"
 authors = [
     {name = "SystemDNA Contributors"},
