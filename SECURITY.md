@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in SystemDNA, please open a issue at https://github.com/Fontailll/SystemDNA/issues.
+If you discover a security vulnerability in SystemDNA,contact the maintainer on github or please open a issue at https://github.com/Fontailll/SystemDNA/issues.
 
 You should receive an acknowledgement within 48 hours. Once the vulnerability is confirmed, a fix will be prepared and released as soon as possible depending on severity.
 
