@@ -175,7 +175,7 @@ Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [d
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+GPL3 — see [LICENSE](LICENSE) for details.
 
 ## Documentation
 
